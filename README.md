@@ -1,4 +1,4 @@
-[![Isman Daiyrov's GitHub](https://github-readme-stats.vercel.app/api?username=IsmanDaiyrov&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Isman's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsmanDaiyrov&theme=dark&)](https://github.com/IsmanDaiyrov/github-readme-stats)
 
 [![Top Langs:](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmanDaiyrov&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
