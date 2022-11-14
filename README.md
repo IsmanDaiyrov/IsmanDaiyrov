@@ -9,7 +9,7 @@ I am a senior undergraduate student majoring in Computer Science at Texas Tech U
 * 🌍  I'm based in Houston, TX 
 * ✉️  You can contact me at [idaiyrov@gmail.com](mailto:idaiyrov@gmail.com)
 
-### Skills
+### Technologies & Tools
 
 <p align="left"> 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> 
