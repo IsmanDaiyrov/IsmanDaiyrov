@@ -1,4 +1,4 @@
-Hi there 👋, my name is Isman Daiyrov 
+Hi, I'm Isman
 ==============================  
 
 CS @ Texas Tech University | Prev. SWE Intern @ Kiva 
