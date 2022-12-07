@@ -7,7 +7,7 @@ CS @ Texas Tech University | Prev. SWE Intern @ Kiva
 I am a senior undergraduate student majoring in Computer Science at Texas Tech University, graduating in May 2023. Currently, I am looking for new grad/entry-level Software Engineer opportunities to start in May 2023.  
 
 * 🌍  I'm based in Houston, TX 
-* ✉️  You can contact me at [idaiyrov@gmail.com](mailto:idaiyrov@gmail.com)
+* ✉️  Contact me at: [idaiyrov@gmail.com](mailto:idaiyrov@gmail.com)
 
 ### Technologies & Tools
 
