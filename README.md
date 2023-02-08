@@ -4,7 +4,7 @@ Hi, I'm Isman 👨🏻‍💻
 CS @ Texas Tech University | Prev. SWE Intern @ Kiva 
 -----------------------------------------  
 
-- I am a senior undergraduate student majoring in Computer Science at Texas Tech University, graduating in May 2023. 
+- I am a senior undergraduate student majoring in Computer Science at Texas Tech University, graduating in December 2023. 
 - Currently, I am looking for a Software Engineer intership opportunities for Summer 2023.
 
 * 🌍  I'm based in Houston, TX 
