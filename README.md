@@ -1,7 +1,7 @@
 Hi, I'm Isman 👨🏻‍💻
 ==============================  
 
-CS @ Texas Tech University | Prev. SWE Intern @ Kiva 
+BSc CS @ Texas Tech University | Prev. SWE Intern @ Kiva 
 -----------------------------------------  
 
 - I am a senior undergraduate student majoring in Computer Science at Texas Tech University, graduating in December 2023. 
