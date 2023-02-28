@@ -4,11 +4,12 @@ Hi, I'm Isman 👨🏻‍💻
 BSc CS @ Texas Tech University | Prev. SWE Intern @ Kiva 
 -----------------------------------------  
 
-- I am a senior undergraduate student majoring in Computer Science at Texas Tech University, graduating in December 2023. 
-- Currently, I am looking for a Software Engineer intership opportunities for Summer 2023.
+I'm a senior undergraduate student majoring in CS at Texas Tech University, and set to graduate in December 2023. 
 
-* 🌍  I'm based in Houston, TX 
-* ✉️  Contact me at: [idaiyrov@gmail.com](mailto:idaiyrov@gmail.com)
+Currently, I'm looking for Software Engineer intership opportunities for Summer 2023.
+
+* 🌍  Based in Houston, TX 
+* ✉️  Email: [idaiyrov@gmail.com](mailto:idaiyrov@gmail.com)
 
 ### Technologies & Tools
 
