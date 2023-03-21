@@ -3,7 +3,8 @@ Hi there, I'm Isman 👨🏻‍💻
 
 CS @ Texas Tech University
 -----------------------------------------  
-* 🌉  Previously interned at [Kiva](https://www.kiva.org/) as a Software Engineer
+* ⚡️   Vice President of [Google Developer Student Club TTU](https://gdsc.community.dev/texas-tech-university/)
+* 👨🏻‍💻  Previously interned at [Kiva](https://www.kiva.org/) as a Software Engineer
 * 🌱  I'm currently learning AI by working on the Pacman game
 * 📍  Based in Houston, TX
 * 📧  My email: [idaiyrov@gmail.com](mailto:idaiyrov@gmail.com)
