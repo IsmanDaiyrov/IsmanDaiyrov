@@ -42,4 +42,5 @@
 ### GitHub Stats
 
 <a href="http://www.github.com/IsmanDaiyrov"><img src="https://github-readme-stats.vercel.app/api?username=IsmanDaiyrov&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="IsmanDaiyrov's GitHub stats" /></a>
+
 <a href="https://github.com/IsmanDaiyrov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmanDaiyrov&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&layout=compact" alt="Top Languages" /></a>
