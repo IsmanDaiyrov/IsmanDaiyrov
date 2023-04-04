@@ -1,16 +1,14 @@
-Hi there, I'm Isman 👨🏻‍💻
-==============================  
+<h1 align="center">Hi there, I'm Isman 👨🏻‍💻</h1>
 
-CS @ Texas Tech University
------------------------------------------  
+<h2 align="center">CS @ Texas Tech University</h2>
+
 * ⚡️   Vice President of [Google Developer Student Club TTU](https://gdsc.community.dev/texas-tech-university/)
 * 👨🏻‍💻  Previously interned at [Kiva](https://www.kiva.org/) as a Software Engineer
-* 🌱  I'm currently learning AI by working on the Pacman game
-* 📍  Based in Houston, TX
-* 📧  My email: [idaiyrov@gmail.com](mailto:idaiyrov@gmail.com)
+* 🌱  I'm currently learning AI by working on the [Pacman](http://ai.berkeley.edu/project_overview.html) game
+* 📧  Email: [idaiyrov@gmail.com](mailto:idaiyrov@gmail.com)
 * ♟️   Fun fact: I have 1600+ Blitz rating on [chess.com](https://www.chess.com/)
 
-### Technologies & Tools
+### Languages & Tools
 
 <p align="left"> 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> 
@@ -41,7 +39,7 @@ CS @ Texas Tech University
 <a href="https://www.linkedin.com/in/ismandaiyrov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://leetcode.com/IsmanDaiyrov/" target="_blank" rel="noreferrer"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="32" height="32" /></a></p>
 
-### My GitHub Stats
+### GitHub Stats
 
 <a href="http://www.github.com/IsmanDaiyrov"><img src="https://github-readme-stats.vercel.app/api?username=IsmanDaiyrov&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="IsmanDaiyrov's GitHub stats" /></a>
 
