@@ -19,7 +19,6 @@
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> 
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> 
-  
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="36" height="36" alt="Docker" /></a>
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://www.jenkins.io/images/logos/jenkins/256.png" width="29" height="36" alt="Jenkins" /></a> 
 <a href="https://gradle.org/" target="_blank" rel="noreferrer"><img src="https://gradle.org/images/gradle-knowledge-graph-logo.png?20170228" width="36" height="36" alt="Gradle" /></a> 
@@ -35,13 +34,13 @@
 <a href="https://cocoapods.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/1189714?s=280&v=4" width="36" height="36" alt="Cocoapods" /></a>
 </p> 
 
-### Socials  
+### Socials
 
 <a href="https://www.linkedin.com/in/ismandaiyrov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://leetcode.com/IsmanDaiyrov/" target="_blank" rel="noreferrer"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="32" height="32" /></a></p>
 
 ### GitHub Stats
 
-<a href="http://www.github.com/IsmanDaiyrov"><img src="https://github-readme-stats.vercel.app/api?username=IsmanDaiyrov&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="IsmanDaiyrov's GitHub stats" /></a>
+<a href="http://www.github.com/IsmanDaiyrov"><img src="https://github-readme-stats.vercel.app/api?username=IsmanDaiyrov&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="IsmanDaiyrov's GitHub stats" /></a>
 
-<a href="https://github.com/IsmanDaiyrov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmanDaiyrov&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/IsmanDaiyrov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmanDaiyrov&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&layout=compact" alt="Top Languages" /></a>
