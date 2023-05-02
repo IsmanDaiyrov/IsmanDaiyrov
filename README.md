@@ -2,10 +2,10 @@
 
 <h2 align="center">CS @ Texas Tech University</h2>
 
-* ⚡️   Vice President of [Google Developer Student Club TTU](https://gdsc.community.dev/texas-tech-university/)
+* ⚡️   Senior Vice President of the [Google Developer Student Club](https://gdscttu.netlify.app/) at Texas Tech University
 * 👨🏻‍💻  Previously interned at [Kiva](https://www.kiva.org/) as a Software Engineer
 * 🌱  I'm currently learning AI by working on the [Pacman](http://ai.berkeley.edu/project_overview.html) game
-* 📧  Email: [idaiyrov@gmail.com](mailto:idaiyrov@gmail.com)
+* 📧  My email: [idaiyrov@gmail.com](mailto:idaiyrov@gmail.com)
 * ♟️   Fun fact: I have 1600+ Blitz rating on [chess.com](https://www.chess.com/)
 
 ### Languages & Tools
